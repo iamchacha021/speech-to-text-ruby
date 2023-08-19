@@ -1,0 +1,15 @@
+current directory: /home/chacha/Development/code/projects/speech-to-text/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+/usr/share/rvm/rubies/ruby-3.1.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/chacha/Development/code/projects/speech-to-text/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230819-32272-gg2any sitelibdir\=./.gem.20230819-32272-gg2any clean
+
+current directory: /home/chacha/Development/code/projects/speech-to-text/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230819-32272-gg2any sitelibdir\=./.gem.20230819-32272-gg2any
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/chacha/Development/code/projects/speech-to-text/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230819-32272-gg2any sitelibdir\=./.gem.20230819-32272-gg2any install
+/bin/install -m 0755 bootsnap.so ./.gem.20230819-32272-gg2any/bootsnap
